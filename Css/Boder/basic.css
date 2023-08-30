@@ -1,0 +1,17 @@
+h2{
+	border: dotted;
+}
+#tag_boder{
+	border: double;
+}
+.nav{
+	border: solid;
+}
+*{
+	background: pink;
+	
+}
+h5,h6{
+	color: red;
+	border: hidden;
+}

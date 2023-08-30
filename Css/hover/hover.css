@@ -1,0 +1,6 @@
+button{
+	background-color: skyblue;
+}
+button:hover{
+	background-color: pink;
+}
